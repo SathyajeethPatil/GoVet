@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">warebel_v5</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="nav_temp">Temperature</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+    <string name="default_notification_channel_id" />
+</resources>
